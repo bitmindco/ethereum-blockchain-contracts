@@ -1,15 +1,16 @@
 # Bitmind Ethereum Blockchain Smart Contracts
 
-I want to apply the Ethereum and Solidity potential to improve the
-capacities of self-organizing systems, CBPP communities, decentralized networks of people
-and, above all, the growing *Open Value Networks* model. To do this, I want to focus in how
-the blockchain offers solutions to implement social infrastructure on the top of it.  
+I want to apply the **Ethereum** and **Solidity** potential to improve the
+capacities of self-organizing systems, *CBPP communities*, decentralized networks of people
+and, above all, the growing *Open Value Networks* model. 
+
+To do this, I want to focus in how the blockchain offers solutions to implement social infrastructure on the top of it.  
 I would like to create some smart contracts to "blockchainize" some of the governance recipes 
-we finally create for Bitmind, in order to have our own DAOs (*Decentralized Autonomous Organizations*)
-and DCOs (Decentralized Collaborative Organizations) and to support structurally the OVN mechanisms. 
+we finally create for (Bitmind.co)[Bitmind.co], in order to have our own **DAOs** (*Decentralized Autonomous Organizations*)
+and **DCOs** (*Decentralized Collaborative Organizations*) and to support structurally the OVN mechanisms. 
 
 Besides the final projects, some proofs of concept which will be also released in Github as part of
-the Bitmind output to be used for other organizations.
+the **Bitmind** output to be used for other organizations.
 
 
 ## OpenValueCoin v1.0
@@ -70,11 +71,20 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 **********************************************
-More info: xmunch (at) xmunch.com
+
+--- 
+
+* More info: xmunch (at) xmunch.com
+
 Diego González - http://www.xmunch.com
-Bitcoin: 1JLg3M9H2xS4qbZEkRkvY8eeSDAVW1kho8
-Litecoin: LPRt76XYmvGK3i73z9dBYHBBnhTS656UTs
-Faircoin: fJU1XrPwymcwf6DuLrCBBAvsp9Bqg36znd
-PGP Public Key: xmunch.com/pgp
+
+* Bitcoin: 1JLg3M9H2xS4qbZEkRkvY8eeSDAVW1kho8
+* Litecoin: LPRt76XYmvGK3i73z9dBYHBBnhTS656UTs
+* Faircoin: fJU1XrPwymcwf6DuLrCBBAvsp9Bqg36znd
+* PGP Public Key: xmunch.com/pgp
+
+
+--
+
 **********************************************
 
