@@ -75,9 +75,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 --- 
 
 * More info: xmunch (at) xmunch.com
-
-Diego González - http://www.xmunch.com
-
 * Bitcoin: 1JLg3M9H2xS4qbZEkRkvY8eeSDAVW1kho8
 * Litecoin: LPRt76XYmvGK3i73z9dBYHBBnhTS656UTs
 * Faircoin: fJU1XrPwymcwf6DuLrCBBAvsp9Bqg36znd
