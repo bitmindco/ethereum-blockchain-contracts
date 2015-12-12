@@ -1,5 +1,18 @@
+# Bitmind Ethereum Blockchain Smart Contracts
 
-- OpenValueCoin v1.0 -
+I want to apply the Ethereum and Solidity potential to improve the
+capacities of self-organizing systems, CBPP communities, decentralized networks of people
+and, above all, the growing *Open Value Networks* model. To do this, I want to focus in how
+the blockchain offers solutions to implement social infrastructure on the top of it.  
+I would like to create some smart contracts to "blockchainize" some of the governance recipes 
+we finally create for Bitmind, in order to have our own DAOs (*Decentralized Autonomous Organizations*)
+and DCOs (Decentralized Collaborative Organizations) and to support structurally the OVN mechanisms. 
+
+Besides the final projects, some proofs of concept which will be also released in Github as part of
+the Bitmind output to be used for other organizations.
+
+
+## OpenValueCoin v1.0
 
 This cryptocurrency creates a public tradeable fungible token
 in the Ethereum Blockchain which may be used in an Open Value Network
