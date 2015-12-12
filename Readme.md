@@ -6,7 +6,7 @@ and, above all, the growing *Open Value Networks* model.
 
 To do this, I want to focus in how the blockchain offers solutions to implement social infrastructure on the top of it.  
 I would like to create some smart contracts to "blockchainize" some of the governance recipes 
-we finally create for (Bitmind.co)[Bitmind.co], in order to have our own **DAOs** (*Decentralized Autonomous Organizations*)
+we finally create for Bitmind (http://bitmind.co), in order to have our own **DAOs** (*Decentralized Autonomous Organizations*)
 and **DCOs** (*Decentralized Collaborative Organizations*) and to support structurally the OVN mechanisms. 
 
 Besides the final projects, some proofs of concept which will be also released in Github as part of
