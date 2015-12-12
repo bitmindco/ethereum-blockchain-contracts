@@ -9,7 +9,7 @@ I would like to create some smart contracts to "blockchainize" some of the gover
 we finally create for Bitmind (http://bitmind.co), in order to have our own **DAOs** (*Decentralized Autonomous Organizations*)
 and **DCOs** (*Decentralized Collaborative Organizations*) and to support structurally the OVN mechanisms. 
 
-Besides the final projects, some proofs of concept which will be also released in Github as part of
+Besides the final projects, some proofs of concept will be also released in Github as part of
 the **Bitmind** output to be used for other organizations.
 
 
